@@ -1,9 +1,9 @@
-.btn {
+btn-secondary {
   padding: 11px 18px;
+  font-size: 12px;
 }
 
-.btn_secondary {
+btn-secondary {
   background-color: transparent;
-  font-size: 12px;
   font-weight: 600;
 }
