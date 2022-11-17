@@ -1,1 +1,1 @@
-.btn{padding:11px 18px}.btn_secondary{background-color:transparent;font-size:12px;font-weight:600}
+.btn-secondary,.btn-primary{padding:11px 18px;font-size:12px;border-radius:8px;font-weight:600}.btn-secondary{background-color:transparent;color:#1565D8}.btn-primary{background-color:#1565D8;color:#fff}
